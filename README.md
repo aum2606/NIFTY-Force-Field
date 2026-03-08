@@ -138,7 +138,3 @@ All parameters are tunable in `config.py`:
 This project is for **educational and research purposes only**. It is not financial advice. The backtest results are based on historical data and do not guarantee future performance. Always consult a qualified financial advisor before making investment decisions.
 
 ---
-
-## License
-
-MIT
